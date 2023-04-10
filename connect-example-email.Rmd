@@ -1,6 +1,7 @@
 ---
 title: "Email Document"
 output: blastula::blastula_email
+classoption: landscape
 ---
 
 ```{r packages, include=FALSE}
