@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.2.1",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "connect_examples/connect-example-main.Rmd",
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    "connect_examples/austin_home_sales.csv": {
+      "checksum": "5f574b95928a620f6bd63dcc47fd4e11"
+    },
+    "connect_examples/connect-example-email.Rmd": {
+      "checksum": "ef3dc7c5842e9bfed2a5ec12ea2f47f9"
+    }
+  },
+  "users": null
+}
